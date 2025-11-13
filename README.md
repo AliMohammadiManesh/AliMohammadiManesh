@@ -21,9 +21,9 @@ Currently working as a **Front-End Developer** on a **production-grade real esta
 Built with **Next.js**, **TypeScript**, and **Turborepo** focused on scalability, modular architecture, and performance.
 
 ### ⚙️ EcoStruct (Netherlands)
-Contributing to a **modern, production-ready React application** for **concrete mix design**.  
-Developing intuitive interfaces with a strong emphasis on **UX, performance**, and **data visualization**.
-
+Creator and **Senior Front-End & Back-End Developer** of a **modern, production-ready React application** for **concrete mix design**.  
+Architected the entire system from the ground up — including **API integration**, **state management**, and **optimized data flows**.  
+Focused on **clean architecture**, **UX excellence**, and **high-performance rendering** for complex engineering data.
 ---
 
 ## ⚙️ Tech Stack
